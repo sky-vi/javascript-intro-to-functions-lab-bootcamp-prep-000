@@ -24,5 +24,3 @@ expect('sayHiToGrandma(string)').toEqual("I can't hear you"
 function sayHiToGrandma(greeting, firstName) {
   console.log('I was called!')
   return `${greeting}, ${firstName}!`
-}
-var 
